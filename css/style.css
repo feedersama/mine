@@ -1,0 +1,102 @@
+body{
+    text-align: center;
+    margin: 0;
+}
+h1{
+    margin: 0px;
+    font-family: 'Rubik Iso', cursive;
+    font-size: 90px;
+    color: #b6dbdb;
+    font-weight: lighter;
+   line-height: 1.5;  
+}
+.p1{
+    margin: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: #eaf1f1;
+    font-weight: bold;
+}
+h3{
+    color:  #11999E;
+}
+h2{
+     color:  #11999E;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.witbox{
+    background-color: #11999E;
+    margin: 0;
+}
+.topimg{
+    position: relative;
+    left: 300px;
+    top: 20px;
+}
+.botimg{
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+.middle-container{
+    margin: 100px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    height: 100px;
+    line-height: 2;
+    
+}
+.footer-link{
+    color:  #daedee;
+    padding: 25px;
+    position: relative;
+    top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+   
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 1.5;
+    text-align: left;
+   
+}
+.chillies{
+   
+    height: 25%;
+    width: 25%;
+   float: left;
+
+}
+.computer{
+    width: 25%;
+    float: right;
+    margin: auto auto auto 25px;
+}
+.btn{
+    background-color: aqua;
+    color: beige;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    position: relative;
+    top: 30px;
+}
+.sn{
+    position: relative;
+    top: 20px;
+    color: bisque;
+}
+hr{
+    border:dotted ;
+    border-width: 5px 0 0 0 ;
+    width: 5%;
+    color: #66BFBF;
+    margin: 100px auto;
+    
+}
+.contact-me{
+    line-height: 2;
+}
